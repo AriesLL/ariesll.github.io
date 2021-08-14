@@ -9,8 +9,8 @@ interests:
   - deep learning
   - accelerator-rich architectures
 social:
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=px_jwFgAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
