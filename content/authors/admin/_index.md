@@ -1,6 +1,7 @@
 ---
 title: Peipei Zhou
 role: Assistant Professor of ECE Department
+avatar_filename: 20200712_2_peipei.jpg
 bio: My research interests include Parallel and Distributed Architecture and
   Programming, Modeling and Optimization for Computer Architecture Design
 interests:
