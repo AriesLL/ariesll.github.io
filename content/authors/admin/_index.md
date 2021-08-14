@@ -9,21 +9,21 @@ interests:
   - deep learning
   - and accelerator-rich architectures
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/PeipeiZhou_EECS
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=px_jwFgAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/AriesLL
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhoupeipei/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/PeipeiZhou_EECS
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AriesLL
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: University of Pittsburgh
     url: https://www.pitt.edu/
