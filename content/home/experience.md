@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: University of Pittsburgh
     company_url: ''
-    company_logo: org-pitt
+    # company_logo: org-pitt
     location: Pittsburgh, Pennsylvania
     date_start: '2021-09-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Staff Software Engineering 
     company: Enflame
     company_url: ''
-    company_logo: org-enflame
+    # company_logo: org-enflame
     location: Shanghai
     date_start: '2019-08-26'
     date_end: '2021-08-05'
