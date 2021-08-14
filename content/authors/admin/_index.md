@@ -1,77 +1,46 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Peipei Zhou
+role: Assistant Professor of ECE Department at University of Pittsburgh
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - customized computing for precision medicine
+  - deep learning
+  - and accelerator-rich architectures
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/PeipeiZhou_EECS
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=px_jwFgAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AriesLL
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zhoupeipei/
+organizations:
+  - name: University of Pittsburgh
+    url: https://www.pitt.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Computer Science
+      institution: University of California, Los Angeles
+      year: 2019
+    - course: MSc in Electrical Engineering
+      institution: University of California, Los Angeles
+      year: 2014
+    - course: BSc in Electrical Engineering
+      institution: Southeast University
+      year: 2011
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I obtained my Ph.D. in Computer Science from University of California, Los Angeles in 2019. My advisor is Prof. Jason Cong, who leads UCLA VAST(VLSI Architecture, Synthesis and Technology) Group. I obtained my master of science degree in 2014 spring under Prof. Cong's supervision at UCLA. My major interest is in Parallel and Distributed Architecture and Programming, Modeling for Computer Architecture Design.\
+I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli School of Engineering in 2019. I have also received 2019 TCAD Donald O. Pederson Best Paper Award in recognition of best paper published in the IEEE Transactions on CAD in the two calendar years preceding the award. My paper has also received 2018 ICCAD Best Paper Nominee, 2018 ISPASS Best Paper Nominee.\
+http://vast.cs.ucla.edu/~peipei{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
