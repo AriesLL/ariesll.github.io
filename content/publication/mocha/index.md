@@ -19,8 +19,20 @@ abstract: FPGAs have been widely deployed in public clouds, e.g., Amazon Web
   AWS, Mocha saves on the application cost by 2.82x for HTC, 1.06x for Mutect2
   and on Huawei Cloud by 1.22x, 1.52x respectively than straightforward CPU-FPGA
   integration solution with less than 5.1% performance overhead.
+
 draft: false
 featured: true
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 projects:
   - mocha
 slides: mocha
