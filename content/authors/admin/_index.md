@@ -7,7 +7,7 @@ bio: My research interests include Parallel and Distributed Architecture and
 interests:
   - customized computing for precision medicine
   - deep learning
-  - and accelerator-rich architectures
+  - accelerator-rich architectures
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -34,8 +34,8 @@ education:
       year: 2014
     - course: BSc in Electrical Engineering
       institution: Southeast University
-      year: 2011
-email: ""
+      year: 2012
+email: peipei.zhou@pitt.edu
 superuser: true
 highlight_name: false
 ---
