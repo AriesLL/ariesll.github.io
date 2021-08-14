@@ -28,6 +28,8 @@ item:
   date_start: "2021-01-25"
   description: ""
   organization: Coursera
+  icon: google-scholar
+  icon_pack: ai
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
