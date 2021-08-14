@@ -4,7 +4,13 @@ publication_types:
   - "1"
 authors:
   - admin
-publication: FPGA
+  - Jiayi Sheng
+  - Cody Hao Yu
+  - Peng Wei
+  - Jie Wang
+  - Di Wu
+  - Jason Cong
+publication: 2021 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA ’21)
 abstract: FPGAs have been widely deployed in public clouds, e.g., Amazon Web
   Services (AWS) and Huawei Cloud. However, simply offloading accelerated
   kernels from CPU hosts to PCIe-based FPGAs does not guarantee out-of-pocket
@@ -22,17 +28,17 @@ abstract: FPGAs have been widely deployed in public clouds, e.g., Amazon Web
 
 draft: false
 featured: true
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#links:
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fpga21_mocha.pdf
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 projects:
   - mocha
 slides: mocha
