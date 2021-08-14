@@ -1,7 +1,7 @@
 ---
 title: Peipei Zhou
 role: Assistant Professor of ECE Department
-avatar_filename: https://vast.cs.ucla.edu/~peipei/pic/20200712_3_peipei_crop.png
+avatar_filename: 20200712_3_peipei_crop_compressed.jpeg
 bio: My research interests include Parallel and Distributed Architecture and
   Programming, Modeling and Optimization for Computer Architecture Design
 interests:
@@ -21,9 +21,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/AriesLL
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
 organizations:
   - name: University of Pittsburgh
     url: https://www.pitt.edu/
