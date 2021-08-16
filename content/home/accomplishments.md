@@ -27,10 +27,9 @@ item:
 - certificate_url: https://ieee-ceda.org/awards/ieee-transactions-computer-aided-design-donald-o-pederson-best-paper-award
   date_end: ""
   date_start: "2019-06-25"
-  description: ""
+  description: Donald O. Pederson Best Paper Award is dedicated to award the best paper published in IEEE TCAD in the recent two calendar years. Current Associate Editors of the IEEE TCAD nominates the best paper candidates first. Among the papers published in the past two years, the most referenced or downloaded papers are nominated automatically by the entire editorial board for review and voting. The editorial board nominated five papers this year, and another nine papers are automatically nominated for receiving highest downloads in the past two years. After the voting, a confidential review committee reviews the top five papers before deciding the final winners. The selection committee unanimously agreed to declare two of the candidates to be co-winners. The award is recognized at the Design Automation Conference (DAC) in Las Vegas on Jun. 4th, 2019.
   organization: IEEE
-  #organization_url: https://www.coursera.org
-  title: IEEE Transactions on Computer-Aided Design Donald O. Pederson Best Paper Award
+  title: [Caffeine](http://vast.cs.ucla.edu/~peipei/) won IEEE Transactions on Computer-Aided Design Donald O. Pederson Best Paper Award
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
