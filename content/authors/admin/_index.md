@@ -33,7 +33,8 @@ education:
       institution: University of California, Los Angeles
       year: 2014
     - course: BSc in Electrical Engineering
-      institution: Southeast University
+      institution: Southeast University, Chien-Shiung Wu Honor College
+      url: https://wjx.seu.edu.cn/wjxen/
       year: 2012
 email: ""
 superuser: true
