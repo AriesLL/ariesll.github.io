@@ -31,22 +31,37 @@ item:
   organization: IEEE
   title: Caffeine won IEEE Transactions on Computer-Aided Design Donald O. Pederson Best Paper Award
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.seasoasa.ucla.edu/wp-content/uploads/seasoasa/2019-Commencement-Awards-and-Honors.pdf
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2019-06-01"
+  description: 2019 Computer Science Department Outstanding Ph.D. Researcher Award
+  organization: UCLA Computer Science
+  organization_url: https://www.cs.ucla.edu/ 
+  title: Outstanding Ph.D. Researcher Award
+- certificate_url: http://ptp.cms.caltech.edu/meeting_location.html
+  date_end: ""
+  date_start: "2018-06-01"
+  description: One of five recipients of 2018 Phi Tau Phi Scholarship in recognition of academic achievements and scholarly contributions.
+  organization: Phi Tau Phi Scholastic Honor Society West America Chapter
+  organization_url: http://ptp.cms.caltech.edu/index.html
+  title: 2018 Phi Tau Phi Scholarship
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+#- certificate_url: https://www.edx.org
+#  date_end: ""
+#  date_start: "2021-01-01"
+#  description: Formulated informed blockchain models, hypotheses, and use cases.
+#  organization: edX
+#  organization_url: https://www.edx.org
+#  title: Blockchain Fundamentals
+#  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#- certificate_url: https://www.datacamp.com
+#  date_end: "2020-12-21"
+#  date_start: "2020-07-01"
+#  description: ""
+#  organization: DataCamp
+#  organization_url: https://www.datacamp.com
+#  title: 'Object-Oriented Programming in R'
+#  url: ""
 
 design:
   columns: '2' 
