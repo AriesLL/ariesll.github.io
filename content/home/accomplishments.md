@@ -10,7 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+#title: 'Accomplish&shy;ments'
+title: 'Honors'
 subtitle:
 
 # Date format
@@ -23,15 +24,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://ieee-ceda.org/awards/ieee-transactions-computer-aided-design-donald-o-pederson-best-paper-award
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-06-25"
   description: ""
-  organization: Coursera
-  icon: google-scholar
-  icon_pack: ai
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: IEEE
+  #organization_url: https://www.coursera.org
+  title: IEEE Transactions on Computer-Aided Design Donald O. Pederson Best Paper Award
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
