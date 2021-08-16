@@ -19,7 +19,7 @@ feature:
 - description: Software
   icon: laptop-code
   icon_pack: fas
-  name: Software
+  name: Algorithm
 - description: Health
   icon: user-md
   icon_pack: fas
