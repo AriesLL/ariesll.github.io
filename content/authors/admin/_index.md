@@ -34,7 +34,7 @@ education:
       year: 2014
     - course: BSc in Electrical Engineering
       institution: Southeast University, Chien-Shiung Wu Honor College
-      url: https://wjx.seu.edu.cn/wjxen/
+      link: https://wjx.seu.edu.cn/wjxen/
       year: 2012
 email: ""
 superuser: true
