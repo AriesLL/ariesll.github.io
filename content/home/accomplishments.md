@@ -34,17 +34,17 @@ item:
 - certificate_url: https://www.seasoasa.ucla.edu/wp-content/uploads/seasoasa/2019-Commencement-Awards-and-Honors.pdf
   date_end: ""
   date_start: "2019-06-01"
-  description: 2019 Computer Science Department Outstanding Ph.D. Researcher Award
+  description: 2019 UCLA Computer Science Department Outstanding Ph.D. Researcher Award
   organization: UCLA Computer Science
   organization_url: https://www.cs.ucla.edu/ 
-  title: Outstanding Ph.D. Researcher Award
+  title: UCLA Outstanding Ph.D. Researcher Award
 - certificate_url: http://ptp.cms.caltech.edu/meeting_location.html
   date_end: ""
   date_start: "2018-06-01"
   description: One of five recipients of 2018 Phi Tau Phi Scholarship in recognition of academic achievements and scholarly contributions.
   organization: Phi Tau Phi Scholastic Honor Society West America Chapter
   organization_url: http://ptp.cms.caltech.edu/index.html
-  title: 2018 Phi Tau Phi Scholarship
+  title: Phi Tau Phi Scholarship
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #- certificate_url: https://www.edx.org
 #  date_end: ""
