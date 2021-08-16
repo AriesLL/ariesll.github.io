@@ -4,7 +4,7 @@
 widget: featurette
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 30
@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: Software
+  icon: laptop-code
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Software
+- description: Health
+  icon: user-md
   icon_pack: fas
-  name: Photography
+  name: Application
+- description: Hardware
+  icon: microchip
+  icon_pack: fas
+  name: Accelerator
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
