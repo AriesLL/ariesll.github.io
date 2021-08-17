@@ -1,5 +1,5 @@
 ---
-title: 2017_dac
+title: Bandwidth Optimization Through On-Chip Memory Restructuring for HLS 
 publication_types:
   - "1"
 authors:
@@ -7,6 +7,7 @@ authors:
   - Peng Wei
   - Cody Hao Yu
   - admin
+publication: "54th Annual Design Automation Conference (ACM DAC '17), acceptance rate: 161/676 = 24%"
 abstract: >
   High-level synthesis (HLS) is getting increasing attention from both academia
   and industry for high-quality and high-productivity designs. However, when
@@ -25,11 +26,16 @@ abstract: >
   of a broad class of HLS designs by averagely 4.8x.
 draft: false
 featured: false
+
+links: 
+- name: PDF
+  url: http://vast.cs.ucla.edu/~peipei/papers/2017dac_bandwidth.pdf
+
 tags:
   - DAC
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:07:12.497Z
+date: 2017-06-17T11:07:12.497Z
 ---

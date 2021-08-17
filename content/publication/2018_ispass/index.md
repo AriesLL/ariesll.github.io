@@ -1,5 +1,5 @@
 ---
-title: 2018_ispass
+title: "Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework(🔥Best Paper Nominee)"
 publication_types:
   - "1"
 authors:
@@ -9,6 +9,7 @@ authors:
   - Megan Shand
   - David Roazen
   - Jason Cong
+publication: "2018 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS '18)"
 abstract: "In conventional Hadoop MapReduce applications, I/O used to play a
   heavy role in the overall system performance. More recently, a study from the
   Apache Spark community—state-of-the-art in-memory cluster computing
@@ -37,11 +38,19 @@ abstract: "In conventional Hadoop MapReduce applications, I/O used to play a
   also enabling them to significantly reduce their costs."
 draft: false
 featured: false
+links:
+- name: PDF
+  url: https://vast.cs.ucla.edu/~peipei/papers/ispass2018-doppio-sparkio_authorCopy.pdf
+- name: Slides
+  url: https://vast.cs.ucla.edu/~peipei/slides/ISPASS18_Doppio_withoutAudio.pptx
+- name: SlidesWithAudio
+  url: https://vast.cs.ucla.edu/~peipei/slides/ISPASS18_Doppio_withAudio.pptx
+
 tags:
   - ISPASS
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:06:06.481Z
+date: 2018-05-18T11:06:06.481Z
 ---
