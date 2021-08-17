@@ -32,9 +32,9 @@ coordinates:
   latitude: '40.4442'
   longitude: '-79.9583'
 directions: Benedum Hall Office 1209
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
 
 # Site header
 
