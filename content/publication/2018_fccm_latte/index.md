@@ -1,5 +1,5 @@
 ---
-title: 2018_fccm_latte
+title: "Latte: Locality Aware Transformation for High-Level Synthesis"
 publication_types:
   - "1"
 authors:
@@ -27,8 +27,22 @@ abstract: "Modern FPGA chips feature abundant reconfigurable resources such as
   maximum."
 draft: false
 featured: false
+links:
+- name: Slides
+  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withoutAudioNew.pptx
+
+links:
+- name: SlidesWithAudio
+  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withAudioNew.pptx
+
+links:
+- name: Poster
+  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_poster_latte.pdf
+
+url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fccm18-latte_authorCopy.pdf
 tags:
-  - fccm
+  - FCCM
+  - HLS
 image:
   filename: featured
   focal_point: Smart

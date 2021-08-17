@@ -46,6 +46,8 @@ url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fpga21_mocha.pdf
 projects:
   - mocha
 slides: mocha
+tags:
+  - FPGA
 image:
   filename: mocha_thumbnail.jpg
   focal_point: Smart

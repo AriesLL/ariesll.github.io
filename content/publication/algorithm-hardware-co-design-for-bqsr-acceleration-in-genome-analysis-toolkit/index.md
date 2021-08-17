@@ -22,6 +22,8 @@ abstract: >-
 draft: false
 featured: false
 url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fccm20_BQSR_2020.pdf
+tags:
+  - FCCM
 image:
   filename: featured
   focal_point: Smart
