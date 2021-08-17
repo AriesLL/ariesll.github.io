@@ -36,7 +36,7 @@ url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fpga21_mocha.pdf
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: "FPGA_2021Mocha.pptx"
 #url_source: '#'
 #url_video: '#'
 projects:
