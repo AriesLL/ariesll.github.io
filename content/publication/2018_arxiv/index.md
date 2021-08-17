@@ -1,5 +1,5 @@
 ---
-title: 2018_arxiv
+title: "Best-effort FPGA programming: a few steps can go a long way" 
 publication_types:
   - "3"
 authors:
@@ -10,6 +10,7 @@ authors:
   - Cody Hao Yu
   - Chen Zhang
   - admin
+publication: arXiv
 abstract: "FPGA-based heterogeneous architectures provide programmers with the
   ability to customize their hardware accelerators for flexible acceleration of
   many workloads. Nonetheless, such advantages come at the cost of sacrificing
@@ -37,11 +38,12 @@ abstract: "FPGA-based heterogeneous architectures provide programmers with the
   programming community."
 draft: false
 featured: false
+url_pdf: https://arxiv.org/pdf/1807.01340.pdf
 tags:
   - arXiv
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:15:45.333Z
+date: 2018-08-17T11:15:45.333Z
 ---
