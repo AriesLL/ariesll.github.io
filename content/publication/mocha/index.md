@@ -31,6 +31,8 @@ featured: true
 links:
 - name: Slides
   url: "FPGA_2021Mocha.pptx"
+- name: Video
+  url: https://www.youtube.com/watch?v=bdlyJkILENc
 
 #links:
 #- name: Custom Link

@@ -7,6 +7,7 @@ authors:
   - Peng Wei
   - Cody Hao Yu
   - admin
+publication: 2018 IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM'18), short paper acceptance ratio: 7/48 = 14.6%
 abstract: "Modern FPGA chips feature abundant reconfigurable resources such as
   LUTs, FFs, BRAMs and DSPs. High-level synthesis (HLS) further advances users
   productivity in designing accelerators and scaling out the design quickly via

@@ -7,7 +7,7 @@ authors:
   - Jason Cong
   - Peng Wei
   - admin
-publication: 2018 International Conference On Computer Aided Design
+publication: 2018 International Conference On Computer Aided Design (ICCAD'18)
 abstract: >-
   Stencil computation is one of the most important kernels in many application
   domains such as image processing, solving partial diferential equations, and
