@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: peipei DOT zhou AT pitt DOT edu
+email: peipei.zhou AT pitt.edu
 address:
   street: 3700 O'Hara Street
   city: Pittsburgh
@@ -30,29 +30,11 @@ address:
   country_code: US
 coordinates:
   latitude: '40.4442'
-  longitude: '-100.0417'
+  longitude: '-79.9583'
 directions: Benedum Hall Office 1209
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
