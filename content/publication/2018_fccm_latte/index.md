@@ -27,17 +27,14 @@ abstract: "Modern FPGA chips feature abundant reconfigurable resources such as
   maximum."
 draft: false
 featured: false
-links:
-- name: Slides
-  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withoutAudioNew.pptx
-
-links:
-- name: SlidesWithAudio
-  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withAudioNew.pptx
 
 links:
 - name: Poster
   url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_poster_latte.pdf
+- name: Slides
+  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withoutAudioNew.pptx
+- name: SlidesWithAudio
+  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withAudioNew.pptx
 
 url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fccm18-latte_authorCopy.pdf
 tags:
