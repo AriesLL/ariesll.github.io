@@ -1,5 +1,5 @@
 ---
-title: Mocha
+title: "MOCHA: Multinode Cost Optimization in Heterogeneous Clouds with Accelerators"
 publication_types:
   - "1"
 authors:

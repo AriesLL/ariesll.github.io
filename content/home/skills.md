@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Research Focus
 subtitle:
 
 # Showcase personal skills or business features.
