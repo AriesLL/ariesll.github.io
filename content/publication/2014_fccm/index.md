@@ -1,5 +1,5 @@
 ---
-title: 2014_fccm
+title: "A Fully Pipelined and Dynamically Composable Architecture of CGRA" 
 publication_types:
   - "1"
 authors:
@@ -8,6 +8,7 @@ authors:
   - Chiyuan Ma
   - Bingjun Xiao
   - admin
+publication: "22nd IEEE International Symposium on Field-Programmable Custom Computing Machines (IEEE FCCM '14)"
 abstract: Future processor chips will not be limited by the transistor
   resources, but will be mainly constrained by energy efficiency. Reconfigurable
   fabrics bring higher energy efficiency than CPUs via customized hardware that
@@ -27,11 +28,18 @@ abstract: Future processor chips will not be limited by the transistor
   user applications in the scenario of rich transistor resources.
 draft: false
 featured: false
+
+links:
+- name: PDF
+  url: https://vast.cs.ucla.edu/~peipei/papers/CHARM_fccm2014.pdf
+- name: Slides
+  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_FPCA_talk_without_audio_final.ppt
+
 tags:
   - FCCM
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:12:17.735Z
+date: 2014-05-17T11:12:17.735Z
 ---

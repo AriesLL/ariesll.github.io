@@ -1,5 +1,5 @@
 ---
-title: 2018_fccm_staccel
+title: "ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA"
 publication_types:
   - "1"
 authors:

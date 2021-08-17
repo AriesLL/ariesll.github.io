@@ -1,5 +1,5 @@
 ---
-title: 2015_HITSEQ
+title: "CS-BWAMEM: A fast and scalable read aligner at the cloud scale for whole genome sequencing" 
 publication_types:
   - "3"
 authors:
@@ -11,6 +11,7 @@ authors:
   - Paul Spellman
   - Peng Wei
   - admin
+publication: "High Throughput Sequencing, Algorithms & Applications, A SIG of IMSB/ECCB 2015"
 abstract: The deep-coverage whole-genome sequencing (WGS) can generate billions
   of reads to be sequenced. It is time consuming for state-of-the-art aligners,
   such as BWA-MEM, to align the tremendous number of reads onto the reference
@@ -24,11 +25,17 @@ abstract: The deep-coverage whole-genome sequencing (WGS) can generate billions
   aligned within 80 minutes in a 25-node cluster with 300 cores.
 draft: false
 featured: false
+links:
+- name: PDF
+  url: https://vast.cs.ucla.edu/~peipei/slides/hitseq2015_CSBWAMEM.pdf
+- name: Poster
+  url: https://vast.cs.ucla.edu/~peipei/slides/hitseq2015_CSBWAMEM_poster.pdf
+
 tags:
   - HITSEQ
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:11:01.653Z
+date: 2015-08-17T11:11:01.653Z
 ---

@@ -1,5 +1,5 @@
 ---
-title: 2016_FPGA
+title: "ARAPrototyper: Enabling Rapid Prototyping and Evaluation for Accelerator-Rich Architecture" 
 publication_types:
   - "3"
 authors:
@@ -7,6 +7,7 @@ authors:
   - Jason Cong
   - Zhenman Fang
   - admin
+publication: "24th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (ACM/SIGDA FPGA '16)"
 abstract: Compared to conventional general-purpose processors, accelerator-rich
   architectures (ARAs) can provide orders-of-magnitude performance and energy
   gains. In this paper we design and implement the ARAPrototyper to enable rapid
@@ -30,11 +31,17 @@ abstract: Compared to conventional general-purpose processors, accelerator-rich
   for ARA design and evaluation.
 draft: false
 featured: false
+links:
+- name: PDF
+  url: https://arxiv.org/abs/1610.09761
+- name: Poster
+  url: https://vast.cs.ucla.edu/~peipei/slides/ARAPrototyper_FPGA_2016_poster.pdf
+
 tags:
   - FPGA
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:10:10.250Z
+date: 2016-02-17T11:10:10.250Z
 ---

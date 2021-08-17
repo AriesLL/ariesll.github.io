@@ -1,5 +1,5 @@
 ---
-title: 2016_ICCAD
+title: "Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks"
 publication_types:
   - "1"
 authors:
@@ -8,6 +8,7 @@ authors:
   - admin
   - Peichen Pan
   - Jason Cong
+publication: "36th International Conference on Computer-Aided Design (ACM ICCAD '16), acceptance rate: 97/408 = 23.8%"
 abstract: >
   With the recent advancement of multilayer convolutional neural networks (CNN),
   deep learning has achieved amazing success in many areas, especially in visual
@@ -36,11 +37,22 @@ abstract: >
   system with a high-end FPGA (Virtex7 690t) shows even higher gains.
 draft: false
 featured: false
+
+links:
+- name: PDF
+  url:https://vast.cs.ucla.edu/~peipei/papers/iccad2016caffeine_cameraready2.pdf
+- name: Slides
+  url: https://vast.cs.ucla.edu/~peipei/slides/ICCAD2016_5th_withoutAudio.pptx
+- name: SlidesWithAudio
+  url: https://vast.cs.ucla.edu/~peipei/slides/ICCAD2016_5th_withAudio.pptx
+- name: Poster
+  url: https://vast.cs.ucla.edu/~peipei/slides/ICCAD_HALO_Caffeine_poster_2.pdf 
+
 tags:
   - ICCAD
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:08:12.200Z
+date: 2016-11-17T11:08:12.200Z
 ---
