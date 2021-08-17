@@ -1,9 +1,10 @@
 ---
-title: 2019_phd
+title: "Modeling and Optimization for Customized Computing: Performance, Energy and Cost Perspective" 
 publication_types:
   - "7"
 authors:
   - admin
+publication: "UCLA Electronic Theses and Dissertations"
 abstract: >-
   This dissertation investigates design target, modeling, and optimization for
   field-programmable gate array (FPGA) customized computing at chip-level,
@@ -32,11 +33,21 @@ abstract: >-
   To demonstrate the performance improvement and cost saving of modeling in customized computing, we use genome pipeline optimization in the public cloud and private cloud as case studies showing how to conduct optimal scheduling under certain constraints. In the public cloud, where cost is the primary concern, we formulate how to select instances and schedule genome stages to achieve the least cost given certain deadline constraints as a MILP (mixed integer linear programming) problem. In a private cloud, where hardware (CPU cores, storage disks) is given, we formulate the scheduling of multiple genomes to achieve the least latency, as a MILP problem.
 draft: false
 featured: false
+links:
+- name: PDF
+  url: https://escholarship.org/uc/item/6g7663zw
+- name: Slides
+  url: https://vast.cs.ucla.edu/~peipei/slides/Defense_PeipeiZhou_20190610.pptx
+- icon: youtube
+  icon_pack: fab
+  name: Video
+  url: https://www.youtube.com/watch?v=NJNAYbGYvm4
+
 tags:
   - Thesis
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:18:19.911Z
+date: 2019-06-10T11:18:19.911Z
 ---

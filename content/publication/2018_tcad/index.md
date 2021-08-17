@@ -1,5 +1,5 @@
 ---
-title: 2018_TCAD
+title: "Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks (🔥Best Paper)" 
 publication_types:
   - "2"
 authors:
@@ -9,6 +9,7 @@ authors:
   - admin
   - Peichen Pan
   - Jason Cong
+publication: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ( Volume: 38, Issue: 11, Nov. 2019)"
 abstract: With the recent advancement of multilayer convolutional neural
   networks (CNN) and fully connected networks (FCN), deep learning has achieved
   amazing success in many areas, especially in visual content understanding and
@@ -35,11 +36,14 @@ abstract: With the recent advancement of multilayer convolutional neural
   for a system with a high-end FPGA (Virtex7 690t) show even higher gains.
 draft: false
 featured: false
+
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8497058/
+
 tags:
   - TCAD
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:13:57.518Z
+date: 2018-11-17T11:13:57.518Z
 ---

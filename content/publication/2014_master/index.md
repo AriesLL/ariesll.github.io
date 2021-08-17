@@ -1,9 +1,10 @@
 ---
-title: 2014_master
+title: "A Fully Pipelined and Dynamically Composable Architecture of CGRA (Coarse Grained Reconfigurable Architecture)" 
 publication_types:
   - "7"
 authors:
   - admin
+publication: UCLA Electronic Theses and Dissertations
 abstract: >
   Future processor will not be limited by the transistor resources, but will be
   mainly constrained by energy efficiency. Reconfigurable architecture offers
@@ -24,11 +25,12 @@ abstract: >
   for user applications when the transistor resources are rich.
 draft: false
 featured: false
+url_pdf: https://escholarship.org/uc/item/9446s3nx
 tags:
   - Thesis
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-17T11:17:16.204Z
+date: 2014-08-17T11:17:16.204Z
 ---
