@@ -5,9 +5,9 @@ avatar_filename: 20200712_3_peipei_crop_compressed.jpeg
 bio: My research interests include Parallel and Distributed Architecture and
   Programming, Modeling and Optimization for Computer Architecture Design
 interests:
-  - Customized Computing for Health (Precision Medicine)
-  - Deep Learning
-  - Accelerator-rich Architectures
+  - Application & Algorithm: Novel Algorithm for Artificial Intelligence  & Healthcare (e.g., Precision Medicine)
+  - Abstraction: Programming Abstraction, Modeling and Optimization
+  - Architecture: Heterogeneous Computing with FPGA-based Customized Computing, GPU, ASIC, NPU, etc
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -43,9 +43,10 @@ user_groups:
 - Principal Investigators
 #- Researchers
 ---
-I obtained my Ph.D. in Computer Science from University of California, Los Angeles in 2019 supervised by Prof. Jason Cong, who leads UCLA VAST(VLSI Architecture, Synthesis and Technology) Group. My major interest is in Parallel and Distributed Architecture and Programming, Modeling for Computer Architecture Design.
+I obtained my Ph.D. in Computer Science from University of California, Los Angeles in 2019 supervised by Prof. Jason Cong, who leads UCLA VAST(VLSI Architecture, Synthesis and Technology) Group.
+My major interest is in ** Customized Architecture and System Optimization for Health, e.g., Precision Medicine and Artificial Intelligence **.
 I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli School of Engineering in 2019. I have also received 2019 TCAD Donald O. Pederson Best Paper Award in recognition of best paper published in the IEEE Transactions on CAD in the two calendar years preceding the award. My paper has also received 2018 ICCAD Best Paper Nominee, 2018 ISPASS Best Paper Nominee.
 \
-[Former Website](http://vast.cs.ucla.edu/~peipei/)
-\
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Peipei_Zhou_fullCV_latest_0625.pdf" "newtab" >}}resumé{{< /staticref >}}.
+\
+[Former Website at UCLA](http://vast.cs.ucla.edu/~peipei/)
