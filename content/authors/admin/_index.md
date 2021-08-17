@@ -44,7 +44,7 @@ user_groups:
 #- Researchers
 ---
 I obtained my Ph.D. in Computer Science from University of California, Los Angeles in 2019 supervised by Prof. Jason Cong, who leads UCLA VAST(VLSI Architecture, Synthesis and Technology) Group.
-My major interest is in ** Customized Architecture and System Optimization for Health, e.g., Precision Medicine and Artificial Intelligence **.
+My major interest is in **Customized Architecture and System Abstraction for Health, e.g., Precision Medicine and Artificial Intelligence**.
 I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli School of Engineering in 2019. I have also received 2019 TCAD Donald O. Pederson Best Paper Award in recognition of best paper published in the IEEE Transactions on CAD in the two calendar years preceding the award. My paper has also received 2018 ICCAD Best Paper Nominee, 2018 ISPASS Best Paper Nominee.
 \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Peipei_Zhou_fullCV_latest_0625.pdf" "newtab" >}}resumé{{< /staticref >}}.
