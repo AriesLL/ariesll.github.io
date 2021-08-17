@@ -24,14 +24,16 @@ email: peipei.zhou AT pitt.edu
 #phone: 888 888 88 88
 address:
   street: 3700 O'Hara St
-  city: Pittsburgh 
+  city: Pittsburgh
   region: PA
   postcode: '15213'
   country: United States
   country_code: US
 coordinates:
-  latitude: '40.4442'
-  longitude: '-100.0417'
+  latitude: '37.4275'
+  longitude: '-122.1697'
+  #latitude: '40.4442'
+  #longitude: '-100.0417'
 directions: Benedum Hall Office 1209
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
