@@ -28,6 +28,10 @@ abstract: FPGAs have been widely deployed in public clouds, e.g., Amazon Web
 
 draft: false
 featured: true
+links:
+- name: Slides
+  url: "FPGA_2021Mocha.pptx"
+
 #links:
 #- name: Custom Link
 #  url: http://example.org
@@ -36,7 +40,7 @@ url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fpga21_mocha.pdf
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides = "FPGA_2021Mocha.pptx"
+#url_slides = "FPGA_2021Mocha.pptx"
 #url_source: '#'
 #url_video: '#'
 projects:
