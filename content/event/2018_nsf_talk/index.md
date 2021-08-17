@@ -12,6 +12,15 @@ draft: false
 featured: false
 authors:
   - admin
+
+links:
+- name: Slides
+  url: https://vast.cs.ucla.edu/~peipei/slides/Expeditions_PI_meeting_lightning_talk_Peipei_Zhou_edit_11_28_v6.pptx
+- name: SlidesWithAudio
+  url: https://vast.cs.ucla.edu/~peipei/slides/Expeditions_PI_meeting_lightning_talk_Peipei_Zhou_edit_11_28_v5_withAudio.pptx
+- name: Poster
+  url: https://vast.cs.ucla.edu/~peipei/slides/CDSC_Cong_NSF_poster.pdf
+
 image:
   filename: featured
   focal_point: Smart
