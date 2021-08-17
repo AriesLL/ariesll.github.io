@@ -1,6 +1,5 @@
 ---
-title: 2018_NSF_talk
-abstract: Customizable Domain Specific Computing
+title: Customizable Domain Specific Computing 
 location: " Washington, D.C"
 date: 2018-12-10T12:13:54.557Z
 date_end: 2018-12-10T16:00:00.000Z
@@ -12,6 +11,7 @@ draft: false
 featured: false
 authors:
   - admin
+  - Jason Cong
 
 links:
 - name: Slides
