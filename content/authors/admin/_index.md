@@ -5,9 +5,9 @@ avatar_filename: 20200712_3_peipei_crop_compressed.jpeg
 bio: My research interests include Parallel and Distributed Architecture and
   Programming, Modeling and Optimization for Computer Architecture Design
 interests:
-  - "Application and Algorithm: Novel Algorithm for Artificial Intelligence  & Healthcare (e.g., Precision Medicine)"
-  - "Abstraction: Programming Abstraction, Modeling and Optimization"
-  - "Architecture: Heterogeneous Computing with FPGA-based Customized Computing, GPU, ASIC, NPU, etc"
+  - "Application & Algorithm: Artificial Intelligence & Healthcare"
+  - "Abstraction: Programming, Modeling and Optimization"
+  - "Architecture: Heterogeneous Computing with FPGA, GPU, ASIC, NPU"
 social:
   - icon: google-scholar
     icon_pack: ai
