@@ -1,5 +1,5 @@
 ---
-title: "SODA: Stencil with Optimized Dataflow Architecture<span style="color:blue">**Best Paper Nominee** text</span>."
+title: SODA\: Stencil with Optimized Dataflow Architecture<span style="color:blue">**Best Paper Nominee** text</span>.
 publication_types:
   - "0"
 authors:
