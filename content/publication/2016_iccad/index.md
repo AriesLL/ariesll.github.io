@@ -40,7 +40,7 @@ featured: false
 
 links:
 - name: PDF
-  url:https://vast.cs.ucla.edu/~peipei/papers/iccad2016caffeine_cameraready2.pdf
+  url: https://vast.cs.ucla.edu/~peipei/papers/iccad2016caffeine_cameraready2.pdf
 - name: Slides
   url: https://vast.cs.ucla.edu/~peipei/slides/ICCAD2016_5th_withoutAudio.pptx
 - name: SlidesWithAudio
