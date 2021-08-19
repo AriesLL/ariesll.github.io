@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Peipei Zhou's Homepage # Website name
-baseurl: 'https://ariesll.github.io/' # Website URL
+baseurl: 'https://peipeizhou-eecs.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
