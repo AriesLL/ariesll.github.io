@@ -46,7 +46,7 @@ experience:
         
         * High-Performance Convolution Neural Network Library for Deep Learning ASIC Acclerator 
         * Pre-silicon Architecture Exploration and Performance Modeling 
-        * Post-silicon ASIC Bring-Up & Convolution Operator Implementation 
+        * Post-silicon ASIC Bring-Up and System Software Optimization 
 
   - title: Software Engineering Intern
     company: Falcon Computing Solutions
