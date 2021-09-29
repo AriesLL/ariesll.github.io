@@ -1,11 +1,11 @@
 ---
-title: TECS2021
+title: Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices 
 publication_types:
   - "2"
 authors:
   - Xinyi Zhang
   - Yawen Wu
-  - Peipei Zhou
+  - admin
   - Xulong Tang
   - Jingtong Hu
 publication: ACM Transactions on Embedded Computing Systems (TECS '21)
@@ -14,7 +14,8 @@ abstract: Multi-head self-attention (attention mechanism) has been employed in a
 draft: false
 featured: false
 tags:
-  - TECS, ESWEEK
+  - TECS 
+  - ESWEEK
 image:
   filename: featured
   focal_point: Smart
