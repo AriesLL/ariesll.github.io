@@ -46,7 +46,7 @@ I joined the University of Pittsburgh, ECE department as a Tenure-Track Assistan
 My major interest is in **Customized Architecture and Programming Abstraction for Applications including Healthcare, e.g., Precision Medicine and Artificial Intelligence**.
 I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli School of Engineering in 2019. I have also received 2019 TCAD Donald O. Pederson Best Paper Award in recognition of best paper published in the IEEE Transactions on CAD in the two calendar years preceding the award. My paper has also received 2018 ICCAD Best Paper Nominee, 2018 ISPASS Best Paper Nominee.
 
-**I'm actively recruiting self-motivated graduate student and undergraduate researchers! Students with relavant research and project experience (compiler, GPU and FPGA programming, artificial intelligence algorithm and application development, etc.) are highly encouraged to contact me via email**. 
+**I'm actively recruiting self-motivated graduate student and undergraduate researchers! Students with relevant research and project experience (compiler, GPU and FPGA programming, artificial intelligence algorithm and application development, etc.) are highly encouraged to contact me via email**.
 \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Peipei_Zhou_fullCV_latest_0625.pdf" "newtab" >}}resumé{{< /staticref >}}.
 \
