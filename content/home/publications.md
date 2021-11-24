@@ -35,6 +35,15 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
+#  the following works, however, it is effective on the home page, not in https://peipeizhou-eecs.github.io/publication/
+#  background:
+#    gradient_start: '#4bb4e3'
+#    gradient_end: '#2b94c3'
+#    gradient_angle: 180
+#    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+#    text_color_light: true
+#advanced:
+#  css_style: 'font-size:.7rem'
 ---
 
 {{% callout note %}}
