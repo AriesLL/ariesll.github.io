@@ -1,5 +1,5 @@
 ---
-title: Dr. Zhou will serve as session chair for CHASE 2021
+title: 11/24/2021 Dr. Zhou will serve as session chair for CHASE 2021
 date: 2021-11-24T05:24:41.060Z
 draft: false
 featured: false
