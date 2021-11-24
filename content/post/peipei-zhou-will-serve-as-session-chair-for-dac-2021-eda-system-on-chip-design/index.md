@@ -1,6 +1,5 @@
 ---
-title: "Peipei Zhou will serve as session chair for DAC 2021: EDA System-on-Chip
-  Design**"
+title: "11/22/2021 Peipei Zhou will serve as session chair for DAC 2021: EDA System-on-Chip Design"
 date: 2021-11-24T04:47:26.304Z
 draft: false
 featured: false
