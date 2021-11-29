@@ -48,6 +48,6 @@ I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli S
 
 **I'm actively recruiting PhD students and research interns! Self-motivated students with relevant research and project experience (compiler, GPU and FPGA programming, artificial intelligence algorithm and application development, etc.) are highly encouraged to contact me via email**.
 \
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Peipei_Zhou_fullCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Peipei_Zhou_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
 \
 [Former Website at UCLA](http://vast.cs.ucla.edu/~peipei/)
