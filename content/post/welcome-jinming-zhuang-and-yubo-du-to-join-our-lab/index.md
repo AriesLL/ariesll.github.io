@@ -9,3 +9,4 @@ image:
   preview_only: false
 ---
 Welcome Jinming and Yubo to join our lab!
+Jinming joined the lab in September 2021 and Yubo will join the lab in January 2022.
