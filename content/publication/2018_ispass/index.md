@@ -39,8 +39,8 @@ abstract: "In conventional Hadoop MapReduce applications, I/O used to play a
 draft: false
 featured: false
 links:
-- name: PDF
-  url: https://vast.cs.ucla.edu/~peipei/papers/ispass2018-doppio-sparkio_authorCopy.pdf
+#- name: PDF
+#  url: https://vast.cs.ucla.edu/~peipei/papers/ispass2018-doppio-sparkio_authorCopy.pdf
 - name: Slides
   url: https://vast.cs.ucla.edu/~peipei/slides/ISPASS18_Doppio_withoutAudio.pptx
 - name: SlidesWithAudio
