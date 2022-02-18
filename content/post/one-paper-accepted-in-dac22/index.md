@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-One paper “H2H: Heterogeneous Model to Heterogeneous System Mapping with Computation and Communication Awareness” (Xinyi Zhang et al.) get accepted by **DAC’22.**
+One paper “H2H: Heterogeneous Model to Heterogeneous System Mapping with Computation and Communication Awareness” (Xinyi Zhang et al.) got accepted by **DAC’22.**
