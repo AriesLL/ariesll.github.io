@@ -37,7 +37,7 @@ abstract: With the recent advancement of multilayer convolutional neural
 draft: false
 featured: false
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8497058/
+#url_pdf: https://ieeexplore.ieee.org/abstract/document/8497058/
 
 tags:
   - TCAD

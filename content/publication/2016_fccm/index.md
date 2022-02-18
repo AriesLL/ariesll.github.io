@@ -21,8 +21,8 @@ draft: false
 featured: false
 
 links:
-- name: PDF
-  url: https://vast.cs.ucla.edu/~peipei/papers/FCCM_2016_final.pdf
+#- name: PDF
+#  url: https://vast.cs.ucla.edu/~peipei/papers/FCCM_2016_final.pdf
 - name: Slides
   url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_talk_revise.pptx
 - name: SlidesWithAudio

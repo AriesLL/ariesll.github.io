@@ -30,8 +30,8 @@ draft: false
 featured: false
 
 links:
-- name: PDF
-  url: https://vast.cs.ucla.edu/~peipei/papers/CHARM_fccm2014.pdf
+#- name: PDF
+#  url: https://vast.cs.ucla.edu/~peipei/papers/CHARM_fccm2014.pdf
 - name: Slides
   url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_FPCA_talk_without_audio_final.ppt
 

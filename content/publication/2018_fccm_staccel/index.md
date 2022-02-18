@@ -25,7 +25,7 @@ abstract: >-
 draft: false
 featured: false
 
-url_pdf: http://vast.cs.ucla.edu/sites/default/files/publications/st-accel-high.pdf
+# url_pdf: http://vast.cs.ucla.edu/sites/default/files/publications/st-accel-high.pdf
 tags:
   - FCCM
 image:

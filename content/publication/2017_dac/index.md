@@ -28,8 +28,8 @@ draft: false
 featured: false
 
 links: 
-- name: PDF
-  url: http://vast.cs.ucla.edu/~peipei/papers/2017dac_bandwidth.pdf
+#- name: PDF
+#  url: http://vast.cs.ucla.edu/~peipei/papers/2017dac_bandwidth.pdf
 
 tags:
   - DAC

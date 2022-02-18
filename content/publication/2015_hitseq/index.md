@@ -26,8 +26,8 @@ abstract: The deep-coverage whole-genome sequencing (WGS) can generate billions
 draft: false
 featured: false
 links:
-- name: PDF
-  url: https://vast.cs.ucla.edu/~peipei/slides/hitseq2015_CSBWAMEM.pdf
+#- name: PDF
+#  url: https://vast.cs.ucla.edu/~peipei/slides/hitseq2015_CSBWAMEM.pdf
 - name: Poster
   url: https://vast.cs.ucla.edu/~peipei/slides/hitseq2015_CSBWAMEM_poster.pdf
 
