@@ -1,11 +1,11 @@
 ---
-title: 2022_todaes
+title: "EF-Train: Enable Efficient On-device CNN Training on FPGA Through Data Reshaping for Online Adaptation or Personalization" 
 publication_types:
   - "2"
 authors:
   - Yue Tang
   - Xinyi Zhang
-  - Peipei Zhou
+  - admin
   - Jingtong Hu
 abstract: Conventionally, DNN models are trained once in the cloud and deployed
   in edge devices such as cars, robots, or unmanned aerial vehicles (UAVs) for
@@ -30,5 +30,9 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+links:
+url_pdf: https://arxiv.org/abs/2202.10935
+tags: 
+  - TODAES
 date: 2022-02-25T08:04:37.024Z
 ---
