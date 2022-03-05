@@ -2,7 +2,13 @@
 title: 2022_dac
 publication_types:
   - "1"
-authors: []
+authors: 
+  - Xinyi Zhang
+  - Cong Hao
+  - admin
+  - Alex Jones
+  - Jingtong Hu
+publication: 2022 Design Automation Conference (DAC 2022)  
 abstract: The complex nature of real-world problems calls for heterogeneity in
   both machine learning (ML) models and hardware systems. For the algorithm, the
   heterogeneity in ML models comes from the multi-sensor perceiving and
