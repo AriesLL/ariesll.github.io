@@ -27,14 +27,14 @@ main:
     weight: 45
   - name: Career
     url: '#experience'
-    weight: 55
+    weight: 29
   - name: Honor 
     url: '#accomplishments'
-    weight: 56
+    weight: 25
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/Peipei_Zhou_CV.pdf
     #url: {{% staticref "uploads/Peipei_Zhou_fullCV_latest_0625.pdf" "newtab" %}}Download my CV{{% /staticref %}}
-    weight: 60
+    weight: 28

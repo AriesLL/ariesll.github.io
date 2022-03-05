@@ -44,7 +44,7 @@ user_groups:
 ---
 I joined the University of Pittsburgh, ECE department as a Tenure-Track Assistant Professor starting September 2021. I obtained my Ph.D. in Computer Science from University of California, Los Angeles in 2019 supervised by [Prof. Jason Cong](https://scholar.google.com/citations?user=UVGe0gQAAAAJ&hl=en), who leads UCLA VAST(VLSI Architecture, Synthesis and Technology) Group and CDSC (The Center for Domain-Specific Computing).
 My major interest is in **Customized Computer Architecture and Programming Abstraction for Applications including Healthcare, e.g., Precision Medicine and Artificial Intelligence**.
-I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli School of Engineering in 2019. I have also received 2019 TCAD Donald O. Pederson Best Paper Award in recognition of best paper published in the IEEE Transactions on CAD in the two calendar years preceding the award. My paper has also received 2018 ICCAD Best Paper Nominee, 2018 ISPASS Best Paper Nominee.
+I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli School of Engineering in 2019. I have also received :trophy: 2019 TCAD Donald O. Pederson Best Paper Award :trophy: in recognition of best paper published in the IEEE Transactions on CAD in the two calendar years preceding the award. My paper has also received 2018 ICCAD Best Paper Nominee :trophy:, 2018 ISPASS Best Paper Nominee :trophy:.
 
 **I'm actively recruiting PhD students and research interns! Self-motivated students with relevant research and project experience (compiler, GPU and FPGA programming, artificial intelligence algorithm and application development, etc.) are highly encouraged to contact me via email**.
 \
