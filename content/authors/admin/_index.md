@@ -2,7 +2,7 @@
 title: Peipei Zhou
 role: Assistant Professor of ECE Department
 avatar_filename: 20200712_3_peipei_crop_compressed.jpeg
-bio: My research interests include **Customized Architecture and Programming Abstraction for Health & AI Applications** 
+bio: My research interests include **Customized Computer Architecture and Programming Abstraction for Health & AI Applications** 
 interests:
   - "Application & Algorithm: Artificial Intelligence, Healthcare"
   - "Abstraction: Programming, Modeling and Optimization"
