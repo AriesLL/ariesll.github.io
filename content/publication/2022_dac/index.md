@@ -1,5 +1,5 @@
 ---
-title: 2022_dac
+title: Heterogeneous Model to Heterogeneous System Mapping with Computation and Communication Awareness 
 publication_types:
   - "1"
 authors: 
