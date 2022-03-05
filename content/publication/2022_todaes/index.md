@@ -7,6 +7,7 @@ authors:
   - Xinyi Zhang
   - admin
   - Jingtong Hu
+publication: 2022 ACM Transactions on Design Automation of Electronic Systems (TODAES 22)
 abstract: Conventionally, DNN models are trained once in the cloud and deployed
   in edge devices such as cars, robots, or unmanned aerial vehicles (UAVs) for
   real-time inference. However, there are many cases that require the models to
