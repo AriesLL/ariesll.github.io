@@ -8,7 +8,7 @@ authors:
   - admin
   - Peichen Pan
   - Jason Cong
-publication: "36th International Conference on Computer-Aided Design (ACM ICCAD '16), acceptance rate: 97/408 = 23.8%"
+publication: "36th International Conference on Computer-Aided Design (ACM ICCAD 16), acceptance rate: 97/408 = 23.8%"
 abstract: >
   With the recent advancement of multilayer convolutional neural networks (CNN),
   deep learning has achieved amazing success in many areas, especially in visual

@@ -8,7 +8,7 @@ authors:
   - Bojie Li
   - admin
   - Jason Cong
-publication: "2018 IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM'18), full paper acceptance ratio: 22/106 = 20.7%"
+publication: "2018 IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM 18), full paper acceptance ratio: 22/106 = 20.7%"
 abstract: >-
   In recent years we have witnessed the emergence of the FPGA in many
   high-performance systems. This is due to FPGA's high reconfigurability and

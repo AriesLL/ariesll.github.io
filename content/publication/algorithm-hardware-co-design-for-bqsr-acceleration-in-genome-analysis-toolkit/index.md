@@ -9,7 +9,7 @@ authors:
   - admin
   - Mau-Chung Frank Chang
   - Jason Cong
-publication: 2020 IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM'20)
+publication: 2020 IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM 20)
 abstract: >-
   Genome sequencing is one of the most important applications in healthcare and
   has a great potential to realize precision medicine and personalized

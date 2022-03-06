@@ -7,7 +7,7 @@ authors:
   - Peng Wei
   - Cody Hao Yu
   - admin
-publication: "54th Annual Design Automation Conference (ACM DAC '17), acceptance rate: 161/676 = 24%"
+publication: "54th Annual Design Automation Conference (ACM DAC 17), acceptance rate: 161/676 = 24%"
 abstract: >
   High-level synthesis (HLS) is getting increasing attention from both academia
   and industry for high-quality and high-productivity designs. However, when

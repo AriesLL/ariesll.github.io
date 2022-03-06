@@ -9,7 +9,7 @@ authors:
   - Megan Shand
   - David Roazen
   - Jason Cong
-publication: "2018 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS '18)"
+publication: "2018 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 18)"
 abstract: "In conventional Hadoop MapReduce applications, I/O used to play a
   heavy role in the overall system performance. More recently, a study from the
   Apache Spark community—state-of-the-art in-memory cluster computing

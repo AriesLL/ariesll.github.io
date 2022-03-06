@@ -8,7 +8,7 @@ authors:
   - Zhenman Fang
   - Jason Cong
   - André DeHon
-publication: "24th IEEE International Symposium on Field-Programmable Custom Computing Machines (IEEE FCCM '16), acceptance rate: 32/133 = 24%"
+publication: "24th IEEE International Symposium on Field-Programmable Custom Computing Machines (IEEE FCCM 16), acceptance rate: 32/133 = 24%"
 abstract: >
   Customized pipeline designs that minimize the pipeline initiation interval
   (II) maximize the throughput of FPGA accelerators designed with high-level

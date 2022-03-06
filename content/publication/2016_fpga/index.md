@@ -7,7 +7,7 @@ authors:
   - Jason Cong
   - Zhenman Fang
   - admin
-publication: "24th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (ACM/SIGDA FPGA '16)"
+publication: "24th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (ACM/SIGDA FPGA 16)"
 abstract: Compared to conventional general-purpose processors, accelerator-rich
   architectures (ARAs) can provide orders-of-magnitude performance and energy
   gains. In this paper we design and implement the ARAPrototyper to enable rapid

@@ -8,7 +8,7 @@ authors:
   - Chiyuan Ma
   - Bingjun Xiao
   - admin
-publication: "22nd IEEE International Symposium on Field-Programmable Custom Computing Machines (IEEE FCCM '14)"
+publication: "22nd IEEE International Symposium on Field-Programmable Custom Computing Machines (IEEE FCCM 14)"
 abstract: Future processor chips will not be limited by the transistor
   resources, but will be mainly constrained by energy efficiency. Reconfigurable
   fabrics bring higher energy efficiency than CPUs via customized hardware that

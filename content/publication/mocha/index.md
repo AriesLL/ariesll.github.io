@@ -10,7 +10,7 @@ authors:
   - Jie Wang
   - Di Wu
   - Jason Cong
-publication: 2021 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA ’21)
+publication: 2021 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA 21)
 abstract: FPGAs have been widely deployed in public clouds, e.g., Amazon Web
   Services (AWS) and Huawei Cloud. However, simply offloading accelerated
   kernels from CPU hosts to PCIe-based FPGAs does not guarantee out-of-pocket

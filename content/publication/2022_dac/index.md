@@ -27,6 +27,8 @@ abstract: The complex nature of real-world problems calls for heterogeneity in
   when compared with the existing computation-prioritized mapping algorithm.
 draft: false
 featured: true
+tags:
+  - DAC 
 image:
   filename: featured
   focal_point: Smart
