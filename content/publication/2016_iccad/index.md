@@ -40,13 +40,12 @@ featured: false
 
 links:
 #- name: PDF
-#  url: https://vast.cs.ucla.edu/~peipei/papers/iccad2016caffeine_cameraready2.pdf
 - name: Slides
-  url: https://vast.cs.ucla.edu/~peipei/slides/ICCAD2016_5th_withoutAudio.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/ICCAD2016_5th_withoutAudio.pptx
 - name: SlidesWithAudio
-  url: https://vast.cs.ucla.edu/~peipei/slides/ICCAD2016_5th_withAudio.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/ICCAD2016_5th_withAudio.pptx
 - name: Poster
-  url: https://vast.cs.ucla.edu/~peipei/slides/ICCAD_HALO_Caffeine_poster_2.pdf 
+  url: https://peipeizhou-eecs.github.io/uploads/poster/ICCAD_HALO_Caffeine_poster_2.pdf 
 
 tags:
   - ICCAD

@@ -37,7 +37,7 @@ links:
 - name: PDF
   url: https://escholarship.org/uc/item/6g7663zw
 - name: Slides
-  url: https://vast.cs.ucla.edu/~peipei/slides/Defense_PeipeiZhou_20190610.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/Defense_PeipeiZhou_20190610.pptx
 - icon: youtube
   icon_pack: fab
   name: Video

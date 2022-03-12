@@ -30,14 +30,13 @@ draft: false
 featured: false
 
 links:
-- name: Poster
-  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_poster_latte.pdf
 - name: Slides
-  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withoutAudioNew.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/FCCM_18_latte_0427withoutAudioNew.pptx
 - name: SlidesWithAudio
-  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_18_latte_0427withAudioNew.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/FCCM_18_latte_0427withAudioNew.pptx
+- name: Poster
+  url: https://peipeizhou-eecs.github.io/uploads/poster/FCCM_18_poster_latte.pdf
 
-# url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fccm18-latte_authorCopy.pdf
 tags:
   - FCCM
   - HLS

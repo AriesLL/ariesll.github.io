@@ -27,9 +27,8 @@ draft: false
 featured: false
 links:
 #- name: PDF
-#  url: https://vast.cs.ucla.edu/~peipei/slides/hitseq2015_CSBWAMEM.pdf
 - name: Poster
-  url: https://vast.cs.ucla.edu/~peipei/slides/hitseq2015_CSBWAMEM_poster.pdf
+  url: https://peipeizhou-eecs.github.io/uploads/poster/hitseq2015_CSBWAMEM_poster.pdf
 
 tags:
   - HITSEQ

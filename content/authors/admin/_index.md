@@ -50,4 +50,4 @@ I'm honored to receive "Outstanding Recognition in Research" from UCLA Samueli S
 \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Peipei_Zhou_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 \
-[Former Website at UCLA](http://vast.cs.ucla.edu/~peipei/)
+[Former Website at UCLA](https://vast.cs.ucla.edu/people/alumni/peipei-zhou)

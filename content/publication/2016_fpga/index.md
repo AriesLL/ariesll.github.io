@@ -35,7 +35,7 @@ links:
 - name: PDF
   url: https://arxiv.org/abs/1610.09761
 - name: Poster
-  url: https://vast.cs.ucla.edu/~peipei/slides/ARAPrototyper_FPGA_2016_poster.pdf
+  url: https://peipeizhou-eecs.github.io/uploads/poster/ARAPrototyper_FPGA_2016_poster.pdf
 
 tags:
   - FPGA

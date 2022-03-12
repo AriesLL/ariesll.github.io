@@ -22,7 +22,7 @@ abstract: >-
 draft: false
 tags: ["ICCAD"]
 featured: false
-url_pdf: http://vast.cs.ucla.edu/~chiyuze/pub/iccad18.pdf
+#url_pdf: http://vast.cs.ucla.edu/~chiyuze/pub/iccad18.pdf
 image:
   filename: featured
   focal_point: Smart

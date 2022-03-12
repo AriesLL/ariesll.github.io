@@ -40,11 +40,10 @@ draft: false
 featured: false
 links:
 #- name: PDF
-#  url: https://vast.cs.ucla.edu/~peipei/papers/ispass2018-doppio-sparkio_authorCopy.pdf
 - name: Slides
-  url: https://vast.cs.ucla.edu/~peipei/slides/ISPASS18_Doppio_withoutAudio.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/ISPASS18_Doppio_withoutAudio.pptx
 - name: SlidesWithAudio
-  url: https://vast.cs.ucla.edu/~peipei/slides/ISPASS18_Doppio_withAudio.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/ISPASS18_Doppio_withAudio.pptx
 
 tags:
   - ISPASS

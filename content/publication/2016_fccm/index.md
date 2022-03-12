@@ -22,13 +22,12 @@ featured: false
 
 links:
 #- name: PDF
-#  url: https://vast.cs.ucla.edu/~peipei/papers/FCCM_2016_final.pdf
 - name: Slides
-  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_talk_revise.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/FCCM_talk_revise.pptx
 - name: SlidesWithAudio
-  url: https://vast.cs.ucla.edu/~peipei/slides/FCCM_talk_revise_with_audio.pptx
+  url: https://peipeizhou-eecs.github.io/uploads/slides/FCCM_talk_revise_with_audio.pptx
 - name: Poster
-  url: https://vast.cs.ucla.edu/~peipei/slides/Pipeline_FCCM_2016_poster.pdf
+  url: https://peipeizhou-eecs.github.io/uploads/poster/Pipeline_FCCM_2016_poster.pdf
 
 tags:
   - FCCM

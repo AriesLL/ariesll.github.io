@@ -39,7 +39,7 @@ links:
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fpga21_mocha.pdf
+#url_pdf: https://vast.cs.ucla.edu/~peipei/papers/fpga21_mocha.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
