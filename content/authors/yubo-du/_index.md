@@ -2,7 +2,13 @@
 title: Yubo Du
 role: PhD Graduate Student
 avatar_filename: yubo_du.jpeg
-social: []
+social: 
+  - icon: graduation-cap
+    icon_pack: far 
+    link: https://www.yubodu.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yubo-du-370b4118a/
 education:
   courses:
     - course: MSc in Computer Science
