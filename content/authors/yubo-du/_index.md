@@ -4,7 +4,7 @@ role: PhD Graduate Student
 avatar_filename: avatar.jpg
 social:
   - icon: graduation-cap
-    icon_pack: far
+    icon_pack: fas
     link: https://www.yubodu.com/
   - icon: linkedin
     icon_pack: fab
