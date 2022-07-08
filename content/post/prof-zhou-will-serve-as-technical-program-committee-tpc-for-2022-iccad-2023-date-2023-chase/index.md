@@ -1,5 +1,5 @@
 ---
-title: 07/08/2022 Prof. Zhou will serve as technical program committee (TPC) for
+title: 2022/07/08 Prof. Zhou will serve as technical program committee (TPC) for
   2022 ICCAD, 2023 DATE, 2023 CHASE
 date: 2022-07-08T07:36:44.473Z
 draft: false
