@@ -1,5 +1,5 @@
 ---
-title: Welcome Zhuoping Yang to join our lab!
+title: 2022/07/08 Welcome Zhuoping Yang to join our lab!
 subtitle: Welcome New Team Member!
 date: 2022-07-08T07:21:32.312Z
 draft: false
