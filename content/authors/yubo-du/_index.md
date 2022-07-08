@@ -2,7 +2,6 @@
 title: Yubo Du
 role: PhD Graduate Student
 avatar_filename: yubo_du.jpeg
-bio: https://www.yubodu.com/
 social:
   - icon: graduation-cap
     icon_pack: far
