@@ -1,5 +1,6 @@
 ---
-title: fpga23
+title: "CHARM: Composing Heterogeneous AcceleRators for Matrix Multiply on
+  Versal ACAP Architecture"
 publication_types:
   - "1"
 draft: false
