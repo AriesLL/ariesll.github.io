@@ -3,8 +3,17 @@ title: Sustainable AI Processing at the Edge
 publication_types:
   - "2"
 authors:
+  - Sébastien Ollivier
+  - Sheng Li
+  - Yue Tang
+  - Chayanika Chaudhuri
   - admin
-draft: false
+  - Xulong Tang
+  - Jingtong Hu
+  - Alex K. Jones
+publication: "IEEE Micro" 
+tags:
+  - IEEE Micro
 featured: false
 image:
   filename: featured
