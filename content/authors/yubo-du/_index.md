@@ -1,7 +1,6 @@
 ---
 title: Yubo Du
-role: PhD Graduate Student
-avatar_filename: avatar.jpg
+role: Graduate Student
 social: []
 education:
 superuser: false
