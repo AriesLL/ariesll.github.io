@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peipei Zhou's Homepage</title><link>https://peipeizhou-eecs.github.io/</link><atom:link href="https://peipeizhou-eecs.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Peipei Zhou's Homepage</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 05:22:18 +0000</lastBuildDate><image><url>https://peipeizhou-eecs.github.io/media/icon_hu1250aaa54d869e747b2648a1402f0494_97654_512x512_fill_lanczos_center_3.png</url><title>Peipei Zhou's Homepage</title><link>https://peipeizhou-eecs.github.io/</link></image><item><title>FPGA23 Paper Accepted!!</title><link>https://peipeizhou-eecs.github.io/post/fpga23-paper-accepted/</link><pubDate>Tue, 13 Dec 2022 05:22:18 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/fpga23-paper-accepted/</guid><description>&lt;p>Our FPGA 2023 submission, &lt;strong>CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture&lt;/strong> is accepted in FPGA 2023! Congratulations to my PhD student Jinming Zhuang on the first-author publication!
+T﻿his is a collaborated work with UIUC, UCLA, AMD/Xilinx. Huge thanks to all the collaborators!&lt;br>
+T﻿he preprint will be released soon! The open-source project will be released soon!&lt;/p></description></item><item><title>2022/07/08 Prof. Zhou will serve as session chair for DAC 2022 EDA System-on-Chip Design Methodology, San Francisco</title><link>https://peipeizhou-eecs.github.io/post/2022-07-08-prof-zhou-will-serve-as-session-chair-for-dac-2022-eda-system-on-chip-design-methodology-san-francisco/</link><pubDate>Fri, 08 Jul 2022 07:57:35 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/2022-07-08-prof-zhou-will-serve-as-session-chair-for-dac-2022-eda-system-on-chip-design-methodology-san-francisco/</guid><description>&lt;p>Prof. Zhou will attend DAC 2022 taking place this July 10-14 at the Moscone Center West in San Francisco, CA. Prof. Zhou will serve as the &lt;strong>Session Chair&lt;/strong> for &lt;strong>EDA System-on-Chip Design Methodology &amp;ldquo;Fantastic SoCs and Where to Find Them!&amp;rdquo; on Tuesday July 12th 1:30pm to 3pm PST at 3007.&lt;/strong> Prof. Zhou will also serve as vice co-chair for University Demonstration at DAC 2022. &lt;strong>University Demo will be held on Tuesday July 12th 7pm to 9pm PST at Level 3 Lobby.&lt;/strong>&lt;/p>
+&lt;p>link: &lt;a href="https://59dac.conference-program.com/" target="_blank" rel="noopener">https://59dac.conference-program.com/&lt;/a>&lt;/p></description></item><item><title>2022/07/08 Prof. Zhou will serve as technical program committee (TPC) for 2022 ICCAD, 2023 DATE, 2023 CHASE</title><link>https://peipeizhou-eecs.github.io/post/prof-zhou-will-serve-as-technical-program-committee-tpc-for-2022-iccad-2023-date-2023-chase/</link><pubDate>Fri, 08 Jul 2022 07:36:44 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/prof-zhou-will-serve-as-technical-program-committee-tpc-for-2022-iccad-2023-date-2023-chase/</guid><description>&lt;p>Prof. Zhou will serve as TPC for &lt;a href="https://iccad.com/" target="_blank" rel="noopener">2022 International Conference on Computer-Aided Design&lt;/a>, &lt;a href="https://www.date-conference.com/date-2023-call-papers" target="_blank" rel="noopener">2023 Design, Automation and Test in Europe Conference | The European Event for Electronic System Design &amp;amp; Test&lt;/a> , 2023 IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies (CHASE)&lt;/p></description></item><item><title>2022/07/08 Welcome Zhuoping Yang to join our lab!</title><link>https://peipeizhou-eecs.github.io/post/welcome-zhuoping-yang-to-join-our-lab/</link><pubDate>Fri, 08 Jul 2022 07:21:32 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/welcome-zhuoping-yang-to-join-our-lab/</guid><description>&lt;p>Welcome Zhuoping! Zhuoping will join the lab in August 2022.&lt;br>
+Zhuoping graduated with Bachelor of Engineering in Electronic Packaging and Master of Engineering in Electronic Packaging from Huazhong University of Science and Technology.&lt;/p></description></item><item><title>H2H: Heterogeneous Model to Heterogeneous System Mapping with Computation and Communication Awareness</title><link>https://peipeizhou-eecs.github.io/publication/2022_dac/</link><pubDate>Sat, 05 Mar 2022 03:13:13 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2022_dac/</guid><description/></item><item><title>EF-Train: Enable Efficient On-device CNN Training on FPGA Through Data Reshaping for Online Adaptation or Personalization</title><link>https://peipeizhou-eecs.github.io/publication/2022_todaes/</link><pubDate>Fri, 25 Feb 2022 08:04:37 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2022_todaes/</guid><description/></item><item><title>One Paper Accepted in TODAES</title><link>https://peipeizhou-eecs.github.io/post/one-paper-accepted-in-todaes/</link><pubDate>Fri, 18 Feb 2022 07:43:37 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/one-paper-accepted-in-todaes/</guid><description>&lt;p>One paper &lt;a href="https://peipeizhou-eecs.github.io/publication/2022_todaes/" target="_blank" rel="noopener">&amp;ldquo;EF-Train: Enable Efficient On-device CNN Training on FPGA
+Through Data Reshaping for Online Adaptation or
+Personalization&amp;rdquo;&lt;/a> got accepted in ACM Transactions on Design Automation of Embedded Systems (TODAES) Special Issue on Energy-Efficient AI Chips&lt;/p></description></item><item><title>One Paper Accepted in DAC'22</title><link>https://peipeizhou-eecs.github.io/post/one-paper-accepted-in-dac22/</link><pubDate>Fri, 18 Feb 2022 07:41:50 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/one-paper-accepted-in-dac22/</guid><description>&lt;p>One paper “H2H: Heterogeneous Model to Heterogeneous System Mapping with Computation and Communication Awareness” (Xinyi Zhang et al.) got accepted by &lt;strong>DAC’22.&lt;/strong>&lt;/p></description></item><item><title>Welcome Jinming Zhuang and Yubo Du to join our lab!</title><link>https://peipeizhou-eecs.github.io/post/welcome-jinming-zhuang-and-yubo-du-to-join-our-lab/</link><pubDate>Thu, 02 Dec 2021 05:59:42 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/welcome-jinming-zhuang-and-yubo-du-to-join-our-lab/</guid><description>&lt;p>Welcome Jinming and Yubo to join our lab!
+Jinming joined the lab in September 2021 and Yubo will join the lab in January 2022.&lt;/p></description></item><item><title>11/24/2021 Dr. Zhou will serve as session chair for CHASE 2021</title><link>https://peipeizhou-eecs.github.io/post/dr-zhou-will-serve-as-session-chair-for-chase-2021/</link><pubDate>Wed, 24 Nov 2021 05:24:41 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/dr-zhou-will-serve-as-session-chair-for-chase-2021/</guid><description>&lt;p>Dr. Zhou will serve as session chair for Session: Data Collection and Analysis at IEEE/ACM Conference on Connected Health Applications, Systems, and Engineering Technologies (CHASE 2021), December 16 - 18, 2021 Washington D.C., USA.&lt;/p>
+&lt;p>&lt;a href="https://conferences.computer.org/chase2021/program.html" target="_blank" rel="noopener">https://conferences.computer.org/chase2021/program.html&lt;/a>&lt;/p></description></item><item><title>11/24/2021 Dr. Zhou will serve on TPC for MLSys 2022</title><link>https://peipeizhou-eecs.github.io/post/11-24-2021-dr-zhou-will-serve-on-tpc-for-mlsys-2022/</link><pubDate>Wed, 24 Nov 2021 05:07:08 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/11-24-2021-dr-zhou-will-serve-on-tpc-for-mlsys-2022/</guid><description>&lt;p>Dr. Zhou will serve on TPC for Fifth Conference on Machine Learning and Systems (MLSys 2022), Apr. 11th to 14th, 2022 at Santa Clara Convention Center.&lt;/p></description></item><item><title>11/23/2021 Dr. Zhou will serve on TPC for FCCM 2022</title><link>https://peipeizhou-eecs.github.io/post/11-23-2021-dr-zhou-will-serve-on-tpc-for-fccm-2022/</link><pubDate>Wed, 24 Nov 2021 05:01:37 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/11-23-2021-dr-zhou-will-serve-on-tpc-for-fccm-2022/</guid><description>&lt;p>Dr. Zhou is invited to serve on Technique Program Committee for The 30th IEEE International Symposium On Field-Programmable Custom Computing Machines (FCCM 2022), May 15 — May 18, 2022, New York.&lt;br>
+&lt;br>
+CFP: &lt;a href="https://www.fccm.org/call-for-papers/" target="_blank" rel="noopener">https://www.fccm.org/call-for-papers/&lt;/a>.&lt;/p></description></item><item><title>11/22/2021 Peipei Zhou will serve as session chair for DAC 2021: EDA System-on-Chip Design</title><link>https://peipeizhou-eecs.github.io/post/peipei-zhou-will-serve-as-session-chair-for-dac-2021-eda-system-on-chip-design/</link><pubDate>Wed, 24 Nov 2021 04:47:26 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/post/peipei-zhou-will-serve-as-session-chair-for-dac-2021-eda-system-on-chip-design/</guid><description>&lt;p>Dr. Zhou will attend DAC 2021 Dec 5th to Dec 9th 2021 and serve as the &lt;strong>Session Chair&lt;/strong> for &lt;strong>EDA System-on-Chip Design Methodology &amp;ldquo;&lt;/strong>&lt;a href="">&lt;/a>Fantastic SoCs and Where to Find Them!&lt;strong>&amp;quot;&lt;/strong>&lt;/p></description></item><item><title>Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices</title><link>https://peipeizhou-eecs.github.io/publication/tecs2021/</link><pubDate>Wed, 29 Sep 2021 16:36:48 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/tecs2021/</guid><description/></item><item><title>MOCHA: Multinode Cost Optimization in Heterogeneous Clouds with Accelerators</title><link>https://peipeizhou-eecs.github.io/publication/mocha/</link><pubDate>Fri, 14 May 2021 09:27:29 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/mocha/</guid><description/></item><item><title>Algorithm-Hardware Co-design for BQSR Acceleration in Genome Analysis ToolKit</title><link>https://peipeizhou-eecs.github.io/publication/algorithm-hardware-co-design-for-bqsr-acceleration-in-genome-analysis-toolkit/</link><pubDate>Fri, 01 May 2020 07:30:59 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/algorithm-hardware-co-design-for-bqsr-acceleration-in-genome-analysis-toolkit/</guid><description/></item><item><title>Modeling and Optimization for Customized Computing: Performance, Energy and Cost Perspective</title><link>https://peipeizhou-eecs.github.io/publication/2019_phd/</link><pubDate>Mon, 10 Jun 2019 11:18:19 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2019_phd/</guid><description/></item><item><title>Slides</title><link>https://peipeizhou-eecs.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+print(&amp;quot;Eating...&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;p>&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>&lt;/p>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;pre>&lt;code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+color: navy;
+}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Customizable Domain Specific Computing</title><link>https://peipeizhou-eecs.github.io/talk/customizable-domain-specific-computing/</link><pubDate>Mon, 10 Dec 2018 12:13:54 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/talk/customizable-domain-specific-computing/</guid><description/></item><item><title>Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks (🔥Best Paper)</title><link>https://peipeizhou-eecs.github.io/publication/2018_tcad/</link><pubDate>Sat, 17 Nov 2018 11:13:57 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2018_tcad/</guid><description/></item><item><title>SODA: Stencil with Optimized Dataflow Architecture (🔥Best Paper Nominee)</title><link>https://peipeizhou-eecs.github.io/publication/2018_iccad/</link><pubDate>Sat, 17 Nov 2018 08:44:06 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2018_iccad/</guid><description/></item><item><title>Best-effort FPGA programming: a few steps can go a long way</title><link>https://peipeizhou-eecs.github.io/publication/2018_arxiv/</link><pubDate>Fri, 17 Aug 2018 11:15:45 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2018_arxiv/</guid><description/></item><item><title>Doppio: I/O-Aware Performance Analysis, Modeling and Optimization for In-Memory Computing Framework(🔥Best Paper Nominee)</title><link>https://peipeizhou-eecs.github.io/publication/2018_ispass/</link><pubDate>Fri, 18 May 2018 11:06:06 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2018_ispass/</guid><description/></item><item><title>Latte: Locality Aware Transformation for High-Level Synthesis</title><link>https://peipeizhou-eecs.github.io/publication/2018_fccm_latte/</link><pubDate>Thu, 17 May 2018 09:14:43 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2018_fccm_latte/</guid><description/></item><item><title>ST-Accel: A High-Level Programming Platform for Streaming Applications on FPGA</title><link>https://peipeizhou-eecs.github.io/publication/2018_fccm_staccel/</link><pubDate>Wed, 16 May 2018 11:04:02 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2018_fccm_staccel/</guid><description/></item><item><title>Bandwidth Optimization Through On-Chip Memory Restructuring for HLS</title><link>https://peipeizhou-eecs.github.io/publication/2017_dac/</link><pubDate>Sat, 17 Jun 2017 11:07:12 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2017_dac/</guid><description/></item><item><title>Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks</title><link>https://peipeizhou-eecs.github.io/publication/2016_iccad/</link><pubDate>Thu, 17 Nov 2016 11:08:12 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2016_iccad/</guid><description/></item><item><title>Energy Efficiency of Full Pipelining: A Case Study for Matrix Multiplication</title><link>https://peipeizhou-eecs.github.io/publication/2016_fccm/</link><pubDate>Tue, 17 May 2016 11:09:11 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2016_fccm/</guid><description/></item><item><title>ARAPrototyper: Enabling Rapid Prototyping and Evaluation for Accelerator-Rich Architecture</title><link>https://peipeizhou-eecs.github.io/publication/2016_fpga/</link><pubDate>Wed, 17 Feb 2016 11:10:10 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2016_fpga/</guid><description/></item><item><title>CS-BWAMEM: A fast and scalable read aligner at the cloud scale for whole genome sequencing</title><link>https://peipeizhou-eecs.github.io/publication/2015_hitseq/</link><pubDate>Mon, 17 Aug 2015 11:11:01 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2015_hitseq/</guid><description/></item><item><title>A Fully Pipelined and Dynamically Composable Architecture of CGRA (Coarse Grained Reconfigurable Architecture)</title><link>https://peipeizhou-eecs.github.io/publication/2014_master/</link><pubDate>Sun, 17 Aug 2014 11:17:16 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2014_master/</guid><description/></item><item><title>A Fully Pipelined and Dynamically Composable Architecture of CGRA</title><link>https://peipeizhou-eecs.github.io/publication/2014_fccm/</link><pubDate>Sat, 17 May 2014 11:12:17 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/publication/2014_fccm/</guid><description/></item><item><title/><link>https://peipeizhou-eecs.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://peipeizhou-eecs.github.io/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://peipeizhou-eecs.github.io/people/</guid><description/></item></channel></rss>
