@@ -1,5 +1,5 @@
 ---
-title: 2022_ieee_micro
+title: Sustainable AI Processing at the Edge
 publication_types:
   - "2"
 authors:
