@@ -22,6 +22,7 @@ content:
   - Principal Investigators
   - Researchers
   - Grad Students
+  - Undergraduate
   - Administration
   - Visitors
   - Alumni
